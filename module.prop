@@ -1,0 +1,7 @@
+id=wifimod
+name=Wifi Module
+version=v1
+versionCode=1
+author=RogerF81
+description=Replaces the WCNSS_qcom_cfg.ini in /system/etc/wifi/.
+template=1400
