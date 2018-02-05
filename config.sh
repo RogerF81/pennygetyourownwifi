@@ -41,7 +41,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "   Magisk Pixel2 Wifi module   "
+  ui_print "   Magisk Pixel2 WiFi module   "
   ui_print "*******************************"
 }
 

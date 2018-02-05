@@ -1,7 +1,7 @@
 id=PixelWiFi
-name=Pixel 2XL Oreo Wifi Module
+name=Pixel 2 Oreo Wifi Module
 version=v2
 versionCode=1
 author=RogerF81
-description=Replaces the WCNSS_qcom_cfg.ini in /system/etc/wifi/ with the according stock Pixel 2XL Oreo file.
+description=Replaces the /system/etc/wifi/WCNSS_qcom_cfg.ini file with the according stock Pixel 2XL Oreo one.
 minMagisk=1500
