@@ -1,7 +1,7 @@
 id=PixelWiFi
-name=Pixel 2 Oreo Wifi Module
-version=v5
+name=Pixel 2 XL Pie Wifi Module
+version=v7
 versionCode=1
 author=RogerF81
-description=Replaces the /system/etc/wifi/WCNSS_qcom_cfg.ini file with the according stock Pixel 2XL Oreo one.
+description=Replaces the files in /vendor/etc/wifi/ with the according Android Pie Pixel 2 XL ones.
 minMagisk=1500
