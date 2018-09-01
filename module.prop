@@ -1,7 +1,7 @@
 id=PixelWiFi
 name=Pixel 2XL Pie Wifi Module
-version=v10
+version=v10.1
 versionCode=1
 author=RogerF81
 description=Replaces the files in /vendor/etc/wifi/ with the according Android Pie Pixel 2 XL ones.
-minMagisk=1500
+minMagisk=17000
