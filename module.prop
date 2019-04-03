@@ -1,6 +1,7 @@
-id=AOSPWiFi
-name=AOSP Wifi Module
-version=v2
+id=PixelWiFi
+name=Pixel 2XL Pie Wifi Module
+version=v10.1
 versionCode=1
 author=RogerF81
-description=Replaces the WCNSS_qcom_cfg.ini file(s) in /vendor/... with the according file from Google's sources with minor modifications.
+description=Replaces the files in /vendor/etc/wifi/ with the according Android Pie Pixel 2 XL ones.
+minMagisk=17000
